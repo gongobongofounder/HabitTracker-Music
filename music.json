@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "lastUpdated": "2025-10-18T19:20:39Z",
+  "lastUpdated": "2025-10-18T19:24:00Z",
   "music": [
     {
       "id": "ambient_calm",
@@ -166,6 +166,17 @@
         "classical",
         "relaxing",
         "instrumental"
+      ]
+    },
+    {
+      "id": "radwimps_ft_toaka_suzume_suzume_no_tojimari_ost_full_lyrics",
+      "title": "radwimps ft toaka suzume suzume no tojimari ost full",
+      "artist": "Unknown Artist",
+      "duration": 240,
+      "url": "https://raw.githubusercontent.com/gongobongofounder/HabitTracker-Music/main/music/radwimps_ft_toaka_suzume_suzume_no_tojimari_ost_full_lyrics.mp3",
+      "category": "other",
+      "tags": [
+        "other"
       ]
     },
     {
