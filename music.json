@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "lastUpdated": "2025-10-18T19:24:00Z",
+  "lastUpdated": "2025-10-18T19:28:10Z",
   "music": [
     {
       "id": "ambient_calm",
@@ -130,6 +130,17 @@
       "tags": [
         "anime",
         "cover"
+      ]
+    },
+    {
+      "id": "lana_del_rey_summertime_sadness_lyrics",
+      "title": "lana del rey summertime sadness",
+      "artist": "Unknown Artist",
+      "duration": 264,
+      "url": "https://raw.githubusercontent.com/gongobongofounder/HabitTracker-Music/main/music/lana_del_rey_summertime_sadness_lyrics.mp3",
+      "category": "other",
+      "tags": [
+        "other"
       ]
     },
     {
