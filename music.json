@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "lastUpdated": "2025-10-18T19:17:05Z",
+  "lastUpdated": "2025-10-18T19:20:39Z",
   "music": [
     {
       "id": "ambient_calm",
@@ -177,6 +177,17 @@
       "category": "romantic",
       "tags": [
         "romantic"
+      ]
+    },
+    {
+      "id": "sirene_boss_theme_poème_damour_clair_obscur_expedition_33",
+      "title": "sirene boss theme poème damour clair obscur expedition 33",
+      "artist": "Unknown Artist",
+      "duration": 493,
+      "url": "https://raw.githubusercontent.com/gongobongofounder/HabitTracker-Music/main/music/sirene_boss_theme_poème_damour_clair_obscur_expedition_33.mp3",
+      "category": "cinematic",
+      "tags": [
+        "cinematic"
       ]
     }
   ]
