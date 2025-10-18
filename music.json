@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "lastUpdated": "2025-10-18T19:02:58Z",
+  "lastUpdated": "2025-10-18T19:17:05Z",
   "music": [
     {
       "id": "ambient_calm",
@@ -57,17 +57,6 @@
       "artist": "Unknown Artist",
       "duration": 222,
       "url": "https://raw.githubusercontent.com/gongobongofounder/HabitTracker-Music/main/music/clair_obscur__expedition_33_lumière_official_music_video.mp3",
-      "category": "cinematic",
-      "tags": [
-        "cinematic"
-      ]
-    },
-    {
-      "id": "clair_obscur_lumiere",
-      "title": "clair obscur lumiere",
-      "artist": "Unknown Artist",
-      "duration": 222,
-      "url": "https://raw.githubusercontent.com/gongobongofounder/HabitTracker-Music/main/music/clair_obscur_lumiere.mp3",
       "category": "cinematic",
       "tags": [
         "cinematic"
