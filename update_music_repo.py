@@ -76,6 +76,9 @@ def extract_metadata(filename):
     """Extract title and artist from filename"""
     name = os.path.splitext(filename)[0]
     
+    # Replace underscores with spaces for better readability
+    name = name.replace('_', ' ')
+    
     # Common patterns
     if '｜' in name or '|' in name:
         # Pattern: "Title | Artist" or "Title ｜ Artist"
@@ -88,8 +91,29 @@ def extract_metadata(filename):
         artist = parts[0].strip()
         title = parts[1].strip() if len(parts) > 1 else parts[0].strip()
     else:
+        # Try to extract meaningful title from filename
+        # Remove common patterns
         title = name
+        
+        # Remove file quality indicators
+        title = re.sub(r'\b(official|music|video|lyrics|cover|edit|slowed|reverb)\b', '', title, flags=re.IGNORECASE)
+        
+        # Title case and clean up
+        title = ' '.join(title.split()).strip()
+        
+        # If still too long, try to extract main part
+        if len(title) > 50:
+            # Take first meaningful part before parentheses or brackets
+            match = re.match(r'^([^(\[]+)', title)
+            if match:
+                title = match.group(1).strip()
+        
         artist = "Unknown Artist"
+    
+    # Clean up title
+    title = ' '.join(title.split()).strip()
+    if not title:
+        title = name
     
     return title, artist
 

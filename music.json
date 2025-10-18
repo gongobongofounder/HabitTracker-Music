@@ -1,10 +1,10 @@
 {
   "version": "1.0.0",
-  "lastUpdated": "2025-10-18T18:53:58Z",
+  "lastUpdated": "2025-10-18T19:02:58Z",
   "music": [
     {
       "id": "ambient_calm",
-      "title": "ambient_calm",
+      "title": "ambient calm",
       "artist": "Unknown Artist",
       "duration": 102,
       "url": "https://raw.githubusercontent.com/gongobongofounder/HabitTracker-Music/main/music/ambient_calm.mp3",
@@ -16,7 +16,7 @@
     },
     {
       "id": "ambient_focus",
-      "title": "ambient_focus",
+      "title": "ambient focus",
       "artist": "Unknown Artist",
       "duration": 175,
       "url": "https://raw.githubusercontent.com/gongobongofounder/HabitTracker-Music/main/music/ambient_focus.mp3",
@@ -29,7 +29,7 @@
     },
     {
       "id": "ambient_nature",
-      "title": "ambient_nature",
+      "title": "ambient nature",
       "artist": "Unknown Artist",
       "duration": 194,
       "url": "https://raw.githubusercontent.com/gongobongofounder/HabitTracker-Music/main/music/ambient_nature.mp3",
@@ -41,7 +41,7 @@
     },
     {
       "id": "blue_bird_naruto_shippuden_op_3_shania_yan_cover",
-      "title": "blue_bird_naruto_shippuden_op_3_shania_yan_cover",
+      "title": "blue bird naruto shippuden op 3 shania yan",
       "artist": "Unknown Artist",
       "duration": 216,
       "url": "https://raw.githubusercontent.com/gongobongofounder/HabitTracker-Music/main/music/blue_bird_naruto_shippuden_op_3_shania_yan_cover.mp3",
@@ -53,18 +53,18 @@
     },
     {
       "id": "clair_obscur__expedition_33_lumière_official_music_video",
-      "title": "clair_obscur__expedition_33_lumière_official_music_video",
+      "title": "clair obscur expedition 33 lumière",
       "artist": "Unknown Artist",
       "duration": 222,
       "url": "https://raw.githubusercontent.com/gongobongofounder/HabitTracker-Music/main/music/clair_obscur__expedition_33_lumière_official_music_video.mp3",
-      "category": "other",
+      "category": "cinematic",
       "tags": [
-        "other"
+        "cinematic"
       ]
     },
     {
       "id": "clair_obscur_lumiere",
-      "title": "clair_obscur_lumiere",
+      "title": "clair obscur lumiere",
       "artist": "Unknown Artist",
       "duration": 222,
       "url": "https://raw.githubusercontent.com/gongobongofounder/HabitTracker-Music/main/music/clair_obscur_lumiere.mp3",
@@ -75,7 +75,7 @@
     },
     {
       "id": "cyberpunk_stay_at_house",
-      "title": "cyberpunk_stay_at_house",
+      "title": "cyberpunk stay at house",
       "artist": "Unknown Artist",
       "duration": 273,
       "url": "https://raw.githubusercontent.com/gongobongofounder/HabitTracker-Music/main/music/cyberpunk_stay_at_house.mp3",
@@ -86,7 +86,7 @@
     },
     {
       "id": "doraemon_op_yume_wo_kanaete_doraemon_夢をかなえてドラえもん_shania_yan",
-      "title": "doraemon_op_yume_wo_kanaete_doraemon_夢をかなえてドラえもん_shania_yan",
+      "title": "doraemon op yume wo kanaete doraemon 夢をかなえてドラえもん shania yan",
       "artist": "Unknown Artist",
       "duration": 243,
       "url": "https://raw.githubusercontent.com/gongobongofounder/HabitTracker-Music/main/music/doraemon_op_yume_wo_kanaete_doraemon_夢をかなえてドラえもん_shania_yan.mp3",
@@ -97,7 +97,7 @@
     },
     {
       "id": "hindi_love_slowed",
-      "title": "hindi_love_slowed",
+      "title": "hindi love",
       "artist": "Unknown Artist",
       "duration": 106,
       "url": "https://raw.githubusercontent.com/gongobongofounder/HabitTracker-Music/main/music/hindi_love_slowed.mp3",
@@ -109,7 +109,7 @@
     },
     {
       "id": "japanese_shounen_ki",
-      "title": "japanese_shounen_ki",
+      "title": "japanese shounen ki",
       "artist": "Unknown Artist",
       "duration": 192,
       "url": "https://raw.githubusercontent.com/gongobongofounder/HabitTracker-Music/main/music/japanese_shounen_ki.mp3",
@@ -121,7 +121,7 @@
     },
     {
       "id": "japanese_waguri_edit",
-      "title": "japanese_waguri_edit",
+      "title": "japanese waguri",
       "artist": "Unknown Artist",
       "duration": 90,
       "url": "https://raw.githubusercontent.com/gongobongofounder/HabitTracker-Music/main/music/japanese_waguri_edit.mp3",
@@ -133,19 +133,19 @@
     },
     {
       "id": "kamado_tanjiro_no_uta_竈門炭治郎のうた_demon_slayer_shania_yan_cover",
-      "title": "kamado_tanjiro_no_uta_竈門炭治郎のうた_demon_slayer_shania_yan_cover",
+      "title": "kamado tanjiro no uta 竈門炭治郎のうた demon slayer shania yan",
       "artist": "Unknown Artist",
       "duration": 210,
       "url": "https://raw.githubusercontent.com/gongobongofounder/HabitTracker-Music/main/music/kamado_tanjiro_no_uta_竈門炭治郎のうた_demon_slayer_shania_yan_cover.mp3",
-      "category": "other",
+      "category": "anime",
       "tags": [
-        "other",
+        "anime",
         "cover"
       ]
     },
     {
       "id": "lofi_chill",
-      "title": "lofi_chill",
+      "title": "lofi chill",
       "artist": "Unknown Artist",
       "duration": 142,
       "url": "https://raw.githubusercontent.com/gongobongofounder/HabitTracker-Music/main/music/lofi_chill.mp3",
@@ -157,7 +157,7 @@
     },
     {
       "id": "neoni_darkside_lyrics",
-      "title": "neoni_darkside_lyrics",
+      "title": "neoni darkside",
       "artist": "Unknown Artist",
       "duration": 164,
       "url": "https://raw.githubusercontent.com/gongobongofounder/HabitTracker-Music/main/music/neoni_darkside_lyrics.mp3",
@@ -168,7 +168,7 @@
     },
     {
       "id": "piano_soft",
-      "title": "piano_soft",
+      "title": "piano soft",
       "artist": "Unknown Artist",
       "duration": 137,
       "url": "https://raw.githubusercontent.com/gongobongofounder/HabitTracker-Music/main/music/piano_soft.mp3",
@@ -181,7 +181,7 @@
     },
     {
       "id": "romantic_casa_rosa",
-      "title": "romantic_casa_rosa",
+      "title": "romantic casa rosa",
       "artist": "Unknown Artist",
       "duration": 180,
       "url": "https://raw.githubusercontent.com/gongobongofounder/HabitTracker-Music/main/music/romantic_casa_rosa.mp3",
