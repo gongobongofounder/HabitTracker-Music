@@ -1,6 +1,6 @@
 {
   "version": "1.0.1",
-  "lastUpdated": "2025-10-22T10:54:56Z",
+  "lastUpdated": "2025-10-22T11:00:00Z",
   "music": [
     {
       "id": "ambient_calm",
@@ -210,6 +210,21 @@
       "category": "cinematic",
       "tags": [
         "cinematic"
+      ]
+    },
+    {
+      "id": "1761125323202_atrajit.sarkar_sparkle",
+      "title": "Sparkle Your Name",
+      "artist": "Makato Sinpei",
+      "duration": 0,
+      "url": "https://raw.githubusercontent.com/gongobongofounder/HabitTracker-Music/main/music/users/atrajit.sarkar/anime/SparkleYourNameAMV1761125323202.m4a",
+      "category": "anime",
+      "uploadedBy": "atrajit.sarkar",
+      "uploaderName": "ATRAJIT SARKAR",
+      "source": "MANUAL",
+      "tags": [
+        "anime",
+        "user-uploaded"
       ]
     }
   ]
